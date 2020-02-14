@@ -22,3 +22,4 @@ CodeWars is a site chalk full of coding challenges that help sharpen your mind.
 * Roman numerals decoder
 * Tribonacci sequence
 * weight for weight
+* human-readable-time
