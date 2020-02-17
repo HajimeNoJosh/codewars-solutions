@@ -15,11 +15,11 @@ CodeWars is a site chalk full of coding challenges that help sharpen your mind.
 # Solutions
 
 ### JavaScript:
-* Are they same
-* Detect pangram
-* Parentheses
-* Pete the baker
-* Roman numerals decoder
-* Tribonacci sequence
-* weight for weight
-* human-readable-time
+*   [Are they same](https://www.codewars.com/kata/550498447451fbbd7600041c/)
+*   [Detect pangram](https://www.codewars.com/kata/545cedaa9943f7fe7b000048/)
+*   [Parentheses](https://www.codewars.com/kata/52774a314c2333f0a7000688/)
+*   [Pete the baker](https://www.codewars.com/kata/525c65e51bf619685c000059)
+*   [Roman numerals decoder](https://www.codewars.com/kata/51b6249c4612257ac0000005)
+*   [Tribonacci sequence](https://www.codewars.com/kata/556deca17c58da83c00002db/)
+*   [Weight for weight](https://www.codewars.com/kata/55c6126177c9441a570000cc/)
+*   [Human-readable-time](https://www.codewars.com/kata/52685f7382004e774f0001f7)
