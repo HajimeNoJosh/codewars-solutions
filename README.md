@@ -23,3 +23,5 @@ CodeWars is a site chalk full of coding challenges that help sharpen your mind.
 *   [Tribonacci sequence](https://www.codewars.com/kata/556deca17c58da83c00002db/)
 *   [Weight for weight](https://www.codewars.com/kata/55c6126177c9441a570000cc/)
 *   [Human-readable-time](https://www.codewars.com/kata/52685f7382004e774f0001f7)
+*   [Pick-peaks](https://www.codewars.com/kata/5279f6fe5ab7f447890006a7/)
+*   [Not-Very-Secure](https://www.codewars.com/kata/526dbd6c8c0eb53254000110/javascript)
