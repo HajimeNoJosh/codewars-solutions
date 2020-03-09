@@ -26,3 +26,4 @@ CodeWars is a site chalk full of coding challenges that help sharpen your mind.
 *   [Pick-peaks](https://www.codewars.com/kata/5279f6fe5ab7f447890006a7/)
 *   [Not-Very-Secure](https://www.codewars.com/kata/526dbd6c8c0eb53254000110/javascript)
 *   [Regex-Password-Validation](https://www.codewars.com/kata/52e1476c8147a7547a000811/javascript)
+*   [calculating-with-functions](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39/javascript)
